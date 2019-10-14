@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="stylesheet" href="{{ url('css/bootstrap.css')}}">
+    <link rel="stylesheet" href="{{ url('css/bootstrap.css') }}">
+    <link rel="stylesheet" href="{{ url('js/bootstrap.js') }}">
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
